@@ -29,7 +29,7 @@ Segue abaixo um exemplo de JSON do modelo do POI:
 Listando todos os POI's
 -----------------------
 
-Para listas todos os POI's uma requisição GET deverá ser feita, conforme descrito abaixo:
+Para listar todos os POI's uma requisição GET deverá ser feita, conforme descrito abaixo:
 
     GET: http://localhost:8080/pois
     
